@@ -3,8 +3,7 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo.
 
-![ProjectScreenshot](../../Screenshot%202023-01-02%20at%2011.44.54.png)
-
+<img title="ProjectSS" alt="ProjectSS" src="projectSS.png">
 # Installation 
 önce projeyi clonelayın 
 
